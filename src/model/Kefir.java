@@ -1,5 +1,4 @@
 package model;
 
-public class Kefir {
-    private String name;
+public class Kefir extends Product{
 }
